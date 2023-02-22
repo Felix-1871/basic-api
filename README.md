@@ -1,7 +1,7 @@
 # Basic API Project
 
 ## Overview
-This project is a basic API built using Python and Flask. It provides a simple interface for interacting with a database of quotes about AI.
+This project is a basic API built using Python and Flask for university class. It provides a simple interface for interacting with a database of quotes about AI. Readme was generated using ChatGPT.
 
 ## Installation
 1. Clone the repository
